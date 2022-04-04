@@ -1,0 +1,190 @@
+ID_ERRORS,DESCRIPTION
+A_NNS_IN,I have a questions (question) about how to increase productivity.
+PERS_PRONOUN_AGREEMENT,Agreement: 'I is / you is / ... '
+PRP_MD_NN,missing verb after 'will/can/could/would'
+ADVERB_VERB_ADVERB_REPETITION,Adverb repetition: e.g. 'also see also'
+MUCH_COUNTABLE,"'much' + countable noun, e.g. 'much (many) children'"
+BE_NN,be + (a/the +) NOUN SINGULAR (NOUN PLURAL)
+A_HAVE_VBN,A have been (I have been)
+CD_NN,Possible agreement error: numeral + singular countable noun
+PRP_NOT_VB,she not likes (she does not like)
+THE_SENT_END,Sentence ending with 'the' or 'a'
+THE_NN_AND_THE_NN,the ... and the ... is (are)
+AGREEMENT_SENT_START,Possible agreement error: plural noun + singular verb
+DT_DT,"Two consecutive articles, e.g. 'the a'"
+MISSING_SUBJECT,Sentence has no subject
+ARTICLE_ADJECTIVE_OF,ARTICLE ADJECTIVE of
+THE_THEY,the (they)
+REPEATED_VERBS,Repeated verb forms
+MOST_COMPARATIVE,No 'more' or 'most' before comparatives
+IT_VBZ,'it' + non-3rd person verb
+DOESNT_WITH_WRONG_VERB_FORM,Doesn't changed (change)
+SO_JJR,This is so (much) cheaper than Grammarly
+HE_VERB_AGR,Agreement error: Non-third person/past tense verb with 'he/she/it' or a pronoun
+PRP_VBG,He going (He is going)
+A_UNCOUNTABLE_NOUN,redundant use of 'a' for uncountable nouns
+AND_BUT,and but
+OVER_COMPOUNDS,over complicated (overcomplicated)
+TO_NON_BASE,'to' + non-base form
+DT_PDT,DETERMINER + PREDETERMINER
+THIS_TWO_MEN,this (these) two men
+OF_ARE,Of (Or) are
+MISSING_APOSTROPHE_T,Missing: 't
+BEEN_PART_AGREEMENT,Agreement: 'been' or 'was' + past tense
+SINGULAR_NOUN_VERB_AGREEMENT,Singular noun/verb agreement errors
+THIS_NNS,'this' vs. 'these'
+WRONG_PRP_AT_SENT_START,incorrect pronoun as subject ('Her loves me.')
+A_THANK_YOU,a/the + thank you
+MANY_NN,Possible agreement error: 'many/several/few' + singular countable noun
+TO_VB_CD_NN,to + VERB + NUMBER + NOUN SINGULAR
+ALL_MOST_SOME_OF_NOUN,all/most/some (of) + noun
+THE_SUPERLATIVE,Zero or indefinite article ('a'/'an') before superlatives
+HAVE_VB,I have write (written) a letter to him in the past. etc.
+AUXILIARY_DO_WITH_INCORRECT_VERB_FORM,"After auxiliary 'do', use the base form of a verb"
+PLENTY_OF_NOUNS,He has plenty (of) apples etc.
+I_MA,I ma (am)
+MISSING_I,"However, (I) am a bit disappointed with this"
+IN_THESE_NN,PREPOSITION + these + NOUN SINGULAR (NOUN PLURAL)
+THIS_VBP_DT,I expect this show (shows) the managers what they need to know.
+NON3PRS_VERB,Agreement error: Third-person verb with a non-third-person pronoun
+DOUBLE_NEGATIVE,"Double negative (e.g., 'not... nothing' instead of 'not... anything')"
+ITS_TO_IT_S,I have to do laundry while its (it's) still sunny
+PRP_PRP,PRONOUN + PRONOUN
+PRP_PAST_PART,Agreement error: past participle without 'have'
+MD_BASEFORM,Non-infinitive verb after modal verbs
+USE_TO_VERB,Missing past tense for 'used to...'
+COMP_THAN,"Comparison with 'than', e.g. 'bigger then (than)'"
+A_RB_NN,Adverb instead of an adjective
+DT_PRP,The you (you)
+BE_WITH_WRONG_VERB_FORM,It is change (changed)
+DT_NN_VBG,Missing verb: this computer (is) working
+SUPERLATIVE_THAN,"SUPERLATIVE + THAN, e.g. worst (worse) than"
+MISSING_TO_BEFORE_A_VERB,Use 'to' before the base form of a verb
+PRP_RB_NO_VB,Verb missing after personal pronoun and adverb at beginning of sentence.
+THIS_TOOLS,This tools (These tools)
+DID_BASEFORM,Non-infinitive verb after did/does
+A_NNS,Agreement: 'a' + plural word
+HOME_COMPOUNDS,home land (homeland)
+A_LOT_OF_NN,Possible agreement error: 'a lot/bunch/couple of' + singular countable noun
+THE_BEST_WAY,missing article before 'BE + ADJECTIVE + way'
+U_RE,U're (You're)
+HAVE_TO_NOTVB,have to + (VERB)
+PRP_JJ,He scary (He is scary)
+A_SOME,a some (some) rules
+PRP_HAVE_VBD_DT,PRONOUN + have + VERB BASE/PAST (PAST PARTICPLE)
+THERE_WAS_MANY,Possible agreement error 'there was' + plural noun
+HAVE_PART_AGREEMENT,Agreement: 'have' + past/present tense
+FEWER_LESS,fewer with countable nouns (less)
+MCDONALDS,McDonald's
+THIS_IS_HAVE,This is has (has/is)
+MD_BE,MODAL VERB + is/was
+IS_VBZ,is + VBZ
+BE_VBG_NN,be + VERB ING + (a +) NOUN SINGULAR
+MISSING_TO_BETWEEN_BE_AND_VB,Missing 'to': It's possible do it
+SINGULAR_NOUN_AGREEMENT_DONT,Singular noun agreement errors: person don't
+PRP_THE,We the best (missing verb)
+HAVE_A_BREAKFAST,Articles before nouns used normally without them
+COULDVE,couldve (could've)
+YA_LL,Ya'll (Y'all)
+HIGH_END_HYPHEN,missing hyphen in 'high end'
+PRP_DINT,he dint (didn't)
+DEPEND_ON,depend on
+BE_TO_VB_BE,BE to VB + BE
+CD_NNU,two error (errors)
+THE_ADD_ON,the + add on
+MY_TO,"my + to (me to, my two)"
+WHAT_DID_VBD,What did happened (happen)?
+NOUN_VERB_CONFUSION,Noun vs verb
+MASS_AGREEMENT,Agreement: Mass/singular noun + non-third-person verb
+SENT_START_LOOKS_LIKE,looks like (it looks like)
+BUT_WARNS_TO_BUT_IT_WARNS,but warns (but it warns)
+A_LOT_A,That correlates closely to a lot a (of) log files
+WRITE_UP_HYPHEN,hyphen in 'write up'
+ANOTHER_NNS,another items (item) is
+CAUSE_BECAUSE,confusion of cause vs. because
+ONE_OF_THE_MOST,one of the most NN
+GO_TO_HYPHEN,missing hyphen in 'go to'
+AGREEMENT_SENT_START_2,Possible agreement error: plural noun + singular verb
+SUBJECT_VERB_AGREEMENT_PLURAL,Subject-verb agreement plural
+WENDYS,Wendy's
+A_RB_A_JJ_NN,redundant determiner
+COMPLAINT_COMPLAINED,He complaint/restraint (complained/restrained)
+PRP_DON,they don (don't)
+DT_NN_ARE_AME,DT/PRPS + NOUN SINGULAR (NOUN PLURAL) + are/were
+WAS_BEEN,was been (has been)
+CD_POINT_CD_NN,3.3 kilometre (kilometres)
+THERE_IS_A_LOT_OF,there is (are) a lot of
+THERE_IS_RB_DT_NNS,There is + ADVERB + DETERMINER + PLURAL NOUN
+IT_S_ITS,it's (its)
+ON_COMPOUNDS,on boarding (onboarding)
+STARS_AND_STEPS,Missing hyphen: number + page/step/star
+SUPPOSE_TO,suppose (supposed) to
+A_INFINITIVE,a infinitive
+ADVERB_OR_HYPHENATED_ADJECTIVE,"Use an adverb or a compound adjective, not an adjective"
+NNP_FOR_A,Harry and Jerry (verb) for a walk
+LOWERCASE_MONTHS,august (August)
+CC_IT_PRP,CONJUNCTION + IT + PRONOUN
+PLEASE_NOT_VB,please not do this (please don't do this)
+NN_NOT_JJ,missing verb before 'not'
+MUST_HAVE,Hyphen in 'must have/see'
+PHRASE_REPETITION,Repetition of two words ('at the at the')
+THERE_RE_MANY,Possible agreement error 'there're' + singular noun
+CONFUSION_OF_VERY_REALLY,she very (really) likes
+ALL_YOU_CAN_EAT_HYPHEN,hyphens in 'all-you-can-eat'
+PRP_VB_TO_VBG,to + gerund
+LOTS_OF_NN,Possible agreement error: 'lots/plenty of' + singular countable noun
+UNDERSTAND_INSTEAD_OF_UNDERSTANDING,my understand (my understanding)
+PRP_VB_BE,SENTENCE START + PERSONAL PRONOUN + VERB BASE + BE
+THE_PUNCT,'The' or 'a' before a punctuation
+PICK_UP_COMPOUND,pick up (pickup)
+CONFUSION_WORSE_WORST,It's the worse (worst) possible outcome
+PEOPLE_VBZ,people + 3rd person verb
+DOES_VBZ_DT,does + VERB THIRD PERSON (VERB BASE) + DETERMINER
+NOUN_INCORRECT_BE,Incorrect form of noun or verb: the solutions was trivial
+BASE_FORM,base form after I/you/we/they
+THIS_RB_VB_IN,this + ADVERB + VERB (VERBs) + PREPOSITION
+DOWN_COMPOUNDS,down load (download)
+HARD_WORKING_COMPOUND,hard working (hardworking)
+POSSESSIVE_DETERMINER_SENT_END,Possessive determiner at sentence end
+BE_MD,BE + MODAL VERB
+BE_VBP_IN,can be access (accessed)
+ADMIT_ENJOY_VB,"'admit', 'appreciate', 'avoid', 'enjoy' etc. with a base form of a verb"
+MD_NN_VB,MODAL VERB + NOUN SINGULAR (NOUN PLURAL) + BE
+SENT_START_PRPS_JJ_NN_VBP,POSSESSIVE PRONOUN + ADJECTIVE + NOUN SINGULAR + VERB 3RD PERSON
+AND_END,the and (end)
+IS_WAS,is was
+BE_COME,be come (become)
+THE_ARE,"the (they, there) are"
+UP_COMPOUNDS,up date (update)
+O_OF,o (of)
+SENT_START_NNS_IS,SENTENCE START + NOUN PLURAL + is/was
+MD_DT_JJ,modal verb + article
+LACK_OF_THEY_ARE_JJ,they (are) good students
+A_MD_VB,A would not do it
+DT_RB_IN,Adverb instead of noun
+EVERY_EACH_SINGULAR,'every/each' + SINGULAR
+THE_SOME,the some cars (some cars)
+WAY_COMPOUNDS,park way (parkway)
+LOS_ANGELS,Los Angels (Los Angeles)
+SUBJECTVERBAGREEMENT_2,things about the party is (are)
+ANYMORE_ADVERB,anymore (any more)
+JJR_ENOUGH,He is smarter (smart) enough for the task.
+THERE_MISSING_VERB,There (are) a lot of …
+MISSING_BE_JJ,It will (be) possible etc.
+STORY_HYPHEN,missing hyphen in '10 story window'
+MANY_YEAR_YEARS,"Many year (years) ago, ... "
+HE_D_VBD,He'd wrote (write / written)
+CC_NNP_VBP,Subject-verb agreement error after conjunction
+DETERMINER_GEOGRAPHICAL_WORD,Determiners preceding geographical terms
+IT_IS_JJ_TO_VBG,it is ... to doing (do)
+TO_PRP_NN,to me (my) + NOUN
+HAPPY_EASTER,Happy Easter
+SOME_NN_VBP,'some' + sing. noun + verb
+LIFE_COMPOUNDS,life style (lifestyle)
+VBZ_AND,he works and live (lives)
+CA_MOM_AND_POP,Compound adjective: mom and pop
+AM_I,missing 'I' in 'am I'
+MANY_NN_U,Possible agreement error: 'many/several/few' + uncountable noun
+PRP_VB_NN,I/you/we/they + VERB BASE + NOUN SINGULAR
+MD_NN,MODAL VERB + NOUN SINGULAR (VERB)
+A_BIT,(a) bit
