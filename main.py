@@ -12,8 +12,8 @@ headers = {
     'Content-Type': 'application/x-www-form-urlencoded',
     'Accept': 'application/json',
 }
-username = "salijona.dyrmishi@uni.lu"
-apiKey = "sk6Zc4DJNyZ6LzYk"
+username = "YOURUSERNAMEFORPREMIUM"
+apiKey = "YOURAPIKEYFORPREMIUM"
 random.seed(333)
 def spell_checker(args):
     text_file = args[0]
